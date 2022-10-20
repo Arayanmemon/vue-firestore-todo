@@ -1,2 +1,19 @@
-# vue-firestore-todo
-It is a simple Todo app created using Vue js and Firestore as database
+# todo-app
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
