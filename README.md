@@ -1,5 +1,10 @@
 # todo-app
 
+It is a simple Todo app created using Vue js and Firestore as database to demonstrate basic CRUD operations.
+
+### project: https://todo-app-2bccb.web.app
+
+
 ## Project setup
 ```
 npm install
@@ -10,10 +15,4 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
